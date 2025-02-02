@@ -1,1 +1,27 @@
 Bandit Solutions
+
+Level 0: 
+	ssh bandit0@bandit.labs.overthewire.org -p 2220
+	Pass: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+	
+Level 1: 
+	cat ./-
+	Pass: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+	
+Level 2:
+	cat "spaces in this filename"
+	Pass: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+	
+Level3:
+	ls -la
+	cat "...Hiding-From-You"
+	Pass: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+	
+Level 4:
+	file ./*
+	Pass: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+Level 5:
+	HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+
+Level 6:
